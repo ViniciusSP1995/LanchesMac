@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XFzfeE59N0GkV4L3HLtIYUdC+3jfdj0i95eVZSEbLrs=",
+  "Hash": "l18shUgYCwsMFvwAOu18zUAqSiG3IqUlEoXvx7jhx/4=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\adminarea.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/adminarea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adminarea.jpg"
     },
     {
       "Identity": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\carousel11.jpg",
@@ -238,6 +255,23 @@
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
     },
     {
+      "Identity": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\login_48.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/login_48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_48.png"
+    },
+    {
       "Identity": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
       "SourceId": "LanchesMac",
       "SourceType": "Discovered",
@@ -253,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\phone-app-icon.png"
+    },
+    {
+      "Identity": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\register.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/register.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\register.png"
     },
     {
       "Identity": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",

@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\images\\Home-iconred.png"
     },
     {
+      "Id": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
       "Id": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\carousel11.jpg",
       "PackagePath": "staticwebassets\\images\\carousel11.jpg"
     },
@@ -49,8 +53,16 @@
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
     },
     {
+      "Id": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
       "Id": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\images\\register.png",
+      "PackagePath": "staticwebassets\\images\\register.png"
     },
     {
       "Id": "C:\\Projetos\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
